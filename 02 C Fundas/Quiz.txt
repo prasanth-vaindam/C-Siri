@@ -1,0 +1,10 @@
+Can we change the data type of a variable?
+Can we change a const variable ?
+Are these valid Identifiers?
+int sum;
+int 30a;
+int b20;
+float _ab;
+float x y;
+int goto;
+

@@ -1,0 +1,5 @@
+Start Date: 15:44 26th June 2024
+--------------------------------
+Need for Linked List Data Structure 
+
+what characters to display the body of the snake and Food
