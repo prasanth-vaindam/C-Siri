@@ -16,9 +16,9 @@ int main() {
 
     // Double variable
     double doubleVar = 3.141592653589793;
-    printf("Double: %.15lf\n", doubleVar);
+    printf("Double: %lf\n", doubleVar);
 
-	// exponential
+	// exponential22.442 * 10^2
 	float normalizationFactor = 22.442e2;
 	printf("normalizationFactor %.4f\n",normalizationFactor);
 
@@ -31,7 +31,7 @@ int main() {
     printf("String: %s\n", stringVar);
 
     // Boolean (using _Bool)
-    _Bool boolVar = true; // 1 for true, 0 for false
+    _Bool boolVar = false; // 1 for true, 0 for false
     printf("Boolean: %d\n", boolVar);
 
     // Long integer variable
