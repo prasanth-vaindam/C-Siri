@@ -8,7 +8,7 @@ int main(){
     // invalid code: unsigned int cannot hold negative integers
     unsigned int num = -35;
 
-    printf("x: %d\n", x);
+    printf("x: %u\n", x);
     printf("y: %d, y: %u\n", y, y);
     printf("z: %d\n", z);
     printf("num: %u\n", num);

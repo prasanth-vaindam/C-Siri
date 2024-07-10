@@ -1,5 +1,7 @@
 #include<stdio.h>
 int main(){
+    /*
+    */
     // char name[] = "Good";
     char *name = "Good";
     printf("%s\n",name);
