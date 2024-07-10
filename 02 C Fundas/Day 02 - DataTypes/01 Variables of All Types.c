@@ -39,6 +39,8 @@ int main() {
     printf("Long Integer: %ld\n", longIntVar);
 
     // Short integer variable
+    // If you are sure, only a small integer
+	// ([-32,767, +32,767] range) will be used, you can use short.
     short shortIntVar = 12345;
     printf("Short Integer: %hd\n", shortIntVar);
 
