@@ -4,8 +4,11 @@ int main()
 {
     int a = 5, c;
 
+    c = a;
+    
+
     c = a;      // c is 5
-    printf("c = %d\n", c);
+    printf("c = %d\n", c); 
     c += a;     // c is 10 
     printf("c = %d\n", c);
     c -= a;     // c is 5
