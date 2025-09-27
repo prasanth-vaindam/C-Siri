@@ -1,0 +1,9 @@
+Stage 6: Pointers
+Objective: Develop mastery of memory handling.
+Quick Questions:
+1.	What is a pointer? How is it declared?
+2.	What does int *p; mean?
+3.	What is the difference between & and * operators?
+4.	What is a NULL pointer?
+5.	Can we do arithmetic on pointers? Give an example.
+--------------------------------------------------------

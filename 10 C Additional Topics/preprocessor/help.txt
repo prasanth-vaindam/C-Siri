@@ -1,0 +1,16 @@
+Key Teaching Points:
+
+#ifdef = "if defined" - code runs only if macro is defined
+#ifndef = "if not defined" - code runs only if macro is NOT defined
+#elif = "else if" - alternative condition
+#else = default case
+#endif = ends the conditional block
+
+---------------------------------------------------------------------------
+Why Use This?
+
+One codebase, multiple versions - no need for separate files
+Debugging - easily turn debug messages on/off
+Platform compatibility - same code works on different systems
+Feature control - enable/disable features without changing logic
+Performance - exclude unnecessary code from final program
