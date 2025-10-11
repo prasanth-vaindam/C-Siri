@@ -1,0 +1,4 @@
+What is variable? > Stores Data
+What is a Pointer Variable? > Stores address of Another Variable
+why do we need pointer variables ? > it's like carrying you debit card which inturn has access to your money
+

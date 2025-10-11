@@ -1,0 +1,12 @@
+Exceptional Prakruthi
+
+Print "Triangle" if three given sides can form a valid triangle
+Discussion points:
+
+Triangle inequality theorem (a + b > c for all combinations)
+Logical AND operator (&&)
+What if sides are negative or zero?
+Testing multiple conditions systematically
+Real-world geometry in code!
+
+in simple words: I will give you 3 sides using those sides tell if you can build a triangle or not
