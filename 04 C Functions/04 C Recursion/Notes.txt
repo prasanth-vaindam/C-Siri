@@ -1,0 +1,30 @@
+Recursion is the process of defining something in terms of itself.
+
+A physical world example would be to place two parallel mirrors facing each other. Any object in between them would be reflected recursively.
+
+In C, we know that a function can call other functions. It is even possible for the function to call itself. These types of construct are termed as recursive functions.
+
+
+How recursion works?
+void recurse()
+{
+    ... .. ...
+    recurse();
+    ... .. ...
+}
+
+int main()
+{
+    ... .. ...
+    recurse();
+    ... .. ...
+}
+
+The recursion continues until some condition is met to prevent it.
+
+To prevent infinite recursion, if...else statement (or similar approach) can be used where one branch makes the recursive call, and other doesn't.
+
+Advantages and Disadvantages of Recursion
+Recursion makes program elegant. However, if performance is vital, use loops instead as recursion is usually much slower.
+
+That being said, recursion is an important concept. It is frequently used in data structure and algorithms. For example, it is common to use recursion in problems such as tree traversal.

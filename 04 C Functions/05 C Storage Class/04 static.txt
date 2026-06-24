@@ -1,0 +1,5 @@
+Static Variable
+A static variable is declared by using the static keyword. For example;
+
+static int i;
+The value of a static variable persists until the end of the program.

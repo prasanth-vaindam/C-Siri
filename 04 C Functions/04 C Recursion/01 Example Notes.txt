@@ -1,0 +1,6 @@
+Initially, the sum() is called from the main() function with number passed as an argument.
+
+Suppose, the value of n inside sum() is 3 initially. During the next function call, 2 is passed to the sum() function. This process continues until n is equal to 0.
+
+When n is equal to 0, the if condition fails and the else part is executed returning the sum of integers ultimately to the main() function.
+

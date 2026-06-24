@@ -1,0 +1,2 @@
+Global Variable
+Variables that are declared outside of all functions are known as external or global variables. They are accessible from any function inside the program.
