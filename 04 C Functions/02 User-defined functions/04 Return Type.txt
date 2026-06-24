@@ -1,0 +1,14 @@
+Return Statement
+The return statement terminates the execution of a function and returns a value to the calling function. The program control is transferred to the calling function after the return statement.
+
+In the above example, the value of the result variable is returned to the main function. The sum variable in the main() function is assigned this value.
+
+Syntax of return statement
+return (expression);     
+For example,
+
+return a;
+return (a+b);
+The type of value returned from the function and the return type specified in the function prototype and function definition must match.
+
+Visit this page to learn more on passing arguments and returning value from a function.

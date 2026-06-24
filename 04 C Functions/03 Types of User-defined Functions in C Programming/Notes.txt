@@ -1,0 +1,81 @@
+Types of User-defined Functions in C Programming
+
+Example 1: No Argument Passed and No Return Value
+Example 2: No Arguments Passed But Returns a Value
+Example 3: Argument Passed But No Return Value
+Example 4: Argument Passed and Returns a Value
+
+
+
+---------------------------------------------------------------
+Example 2: No Arguments Passed But Returns a Value
+Problem:
+Read the radius inside the function and return the area of the circle.
+
+Why this example?
+Function collects input.
+Main only receives the result.
+Shows the purpose of return values.
+
+---------------------------------------------------------------
+Example 3: Argument Passed But No Return Value
+Problem:
+Calculate and display the electricity bill.
+Rate:
+
+First 100 units → ₹2/unit
+Next 100 units → ₹3/unit
+Remaining units → ₹5/unit
+
+Why this example?
+Main supplies data.
+Function performs work.
+Function directly prints the result.
+Good real-world application.
+---------------------------------------------------------------
+Example 4: Argument Passed and Returns a Value
+Problem:
+Calculate the simple interest.
+
+Formula:
+SI = (P × R × T) / 100
+
+Why this example?
+Inputs are supplied by the caller.
+Function processes data.
+Returns the computed result.
+Main decides how to use the returned value.
+
+---------------------------------------------------------------
+Which approach is better?
+Well, it depends on the problem you are trying to solve.
+
+Additional meaningful practice programs
+No Arguments, No Return Value
+Print a student's grade based on marks entered inside the function.
+Display the reverse of a number.
+Check whether a number is even or odd.
+Print the first n Fibonacci numbers.
+
+
+No Arguments, Returns a Value
+Return the largest of three numbers entered inside the function.
+Return the factorial of a number.
+Return the sum of digits of a number.
+Return the average of five subject marks.
+
+
+Arguments, No Return Value
+Print the multiplication table of a given number.
+Display whether a given year is a leap year.
+Print all prime numbers from 1 to n.
+Display the binary representation of a decimal number.
+
+
+Arguments, Returns a Value
+Return the factorial of a given number.
+Return whether a number is prime (1 for prime, 0 otherwise).
+Return the GCD of two numbers.
+Return the reverse of a given number.
+
+These examples progress naturally from simple to practical applications and are well suited for teaching beginners the purpose and use of each type of function in C.

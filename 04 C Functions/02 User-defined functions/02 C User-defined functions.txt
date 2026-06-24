@@ -1,0 +1,9 @@
+C User-defined functions
+A function is a block of code that performs a specific task.
+
+C allows you to define functions according to your need. These functions are known as user-defined functions. For example:
+
+Suppose, you need to create a circle and color it depending upon the radius and color. You can create two functions to solve this problem:
+
+createCircle() function
+color() function
